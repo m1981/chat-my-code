@@ -1,0 +1,7 @@
+langchain
+openai
+unstructured
+faiss-cpu
+gradio
+tiktoken
+GitPython
